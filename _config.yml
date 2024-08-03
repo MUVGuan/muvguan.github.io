@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "&nbsp&nbsp&nbspQingfeng Guan"
+  name             : "&nbsp&nbsp&nbsp&nbsp&nbsp&nbspQingfeng Guan"
   pronouns         : # example: "she/her"  
-  bio              : "Dream it possible"
+  bio              : "&nbsp&nbsp&nbsp&nbsp&nbspDream it possible"
   location         : "China"
   employer         : "Red Brick University"
   uri              : # URL
