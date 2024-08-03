@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
+
 ======
 
 Hi, this is Qingfeng, an incoming PhD student of the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I received my Bachelor's and Master's degrees from [North China Electric Power University (NCEPU)](https://english.ncepu.edu.cn/) and [Shandong University (SDU)](https://www.en.sdu.edu.cn/) respectively. Currently, my research direction is computer vision, the specific interests include video object segmentation and vision-based embodied AI.
