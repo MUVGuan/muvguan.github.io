@@ -1,7 +1,7 @@
 About me
 ======
 
-Hi, this is Qingfeng, an incoming PhD student of the [University of Electronic Science and Technology (UESTC)](https://en.uestc.edu.cn/). I received my Bachelor's and Master's degrees from [North China Electric Power University (NCEPU)](https://english.ncepu.edu.cn/) and [Shandong University (SDU)](https://www.en.sdu.edu.cn/) respectively. Currently, my research direction is computer vision, the specific interests include video object segmentation and vision-based embodied AI.
+Hi, this is Qingfeng, an incoming PhD student of the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/). I received my Bachelor's and Master's degrees from [North China Electric Power University (NCEPU)](https://english.ncepu.edu.cn/) and [Shandong University (SDU)](https://www.en.sdu.edu.cn/) respectively. Currently, my research direction is computer vision, the specific interests include video object segmentation and vision-based embodied AI.
 
 A data-driven personal website
 ======
