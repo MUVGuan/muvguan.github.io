@@ -11,8 +11,23 @@ Hi, this is Qingfeng, an incoming PhD student of the [University of Electronic S
 
 News
 ======
+📅 2024-08-31<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am going to UESTC to pursue a PhD~
+
+📅 2024-07-01<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer journey, Xian, China:)
+
+📅 2024-06-17<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer journey, Beijing, China:)
+
 📅 2024-06-12<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One paper about video object segmentation was accepted by Neurocomputing!
+
+📅 2023-07-27<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern in Shandong Rolling Technology Group Co., LTD.
+
+📅 2023-06-26<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduation journey, Busan, South Korea:)
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
