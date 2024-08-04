@@ -1,8 +1,7 @@
 ---
 title: "Structural Transformer with Region Strip Attention for video object segmentation"
 collection: publications
-permalink: /publication/2024-06-12-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+permalink: /publication/2024-06-12-STRSA
 date: 2024-06-12
 venue: 'Neurocomputing'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0925231224008476'
