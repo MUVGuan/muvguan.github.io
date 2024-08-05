@@ -28,6 +28,3 @@ News
 
 📅 2023-06-26<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graduation journey, Busan, South Korea :)
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ScaCvhH7_pYDYk4Y1-3IbPniWVSKmEpY1-B9_fVHX5k&cl=ffffff&w=a"></script>
